@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/lock" android:title="Set as Lock Screen"/>
+    <item android:id="@+id/wall" android:title="Set as Home Screen"/>
+    <item android:id="@+id/both" android:title="BOTH"/>
+</menu>
